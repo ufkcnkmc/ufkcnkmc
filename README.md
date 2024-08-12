@@ -51,11 +51,11 @@ I am Ufuk Can Kumcu, a student at İstanbul Medeniyet University. I have experie
 - [Instagram](https://www.instagram.com/ufkcnkmc/)
 - [Twitter](https://twitter.com/ufkcnkmc)
 
-Feel free to connect with me or check out my projects below!
+Feel free to connect with me or check out my repositories!
 
 ## Projects
 
-- [React User App](https://github.com/ufkcnkmc/react-User-App): A project for managing users using React.
+- [My Repositories](https://github.com/ufkcnkmc?tab=repositories): Explore my various projects and repositories.
 
 ## Contact
 
